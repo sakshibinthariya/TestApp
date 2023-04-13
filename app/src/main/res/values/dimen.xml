@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="viewpager_height">220dp</dimen>
+    <dimen name="viewpager_layout_height">300dp</dimen>
+    <dimen name="slider_image_view_height">250dp</dimen>
+    <dimen name="indicator_height">20dp</dimen>
+    <dimen name="searchbar_height">55dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="margin_large">60dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="layout_margin">3dp</dimen>
+    <dimen name="image_view_margin">5dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="image_view_dimension">30dp</dimen>
+
+</resources>
